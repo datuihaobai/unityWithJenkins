@@ -1,7 +1,8 @@
 .vs
 /Library
-/ProjectSettings
 /Temp
+/MemoryCaptures
+/PcBuild
 /Assets/XLua/Gen
 /Assets/XLua/Gen.meta
 Assets/StreamingAssets.meta
